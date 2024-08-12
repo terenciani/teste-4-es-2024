@@ -9,7 +9,7 @@ import org.junit.Test;
 public class TesteImposto {
 
 	@Test
-	public void testa() throws IOException {
-
+	public void testaAliquotaZerada() throws IOException {
+		System.out.println("Teste");
 	}
 }

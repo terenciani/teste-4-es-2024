@@ -23,7 +23,7 @@
 			<artifactId>imposto.renda</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 			<scope>system</scope>
-			<systemPath>${project.basedir}/lib/imposto.renda-0.0.1-SNAPSHOT.jar</systemPath>
+			<systemPath>${project.basedir}/lib/irpf/imposto.renda-0.0.1-SNAPSHOT.jar</systemPath>
 		</dependency>
 	</dependencies>
 	
